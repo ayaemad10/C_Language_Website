@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include<stdio.h>
+
+int main()
+{
+char ch ='a';
+int i,j,k;
+unsigned short sh = 8;
+long L =99;
+long long LL= 88;
+float f1 =8.5;
+    printf("ch = %c , ASCLL value of ch =%d\n" ,ch ,ch);
+    return 0 ;
+
+
+
+}
